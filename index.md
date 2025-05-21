@@ -6,3 +6,9 @@
 ###### This is a header6
 These  are different header sizes
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` python
+print("this is an example")
+```
+```git init
+git config user.name
+```
