@@ -5,3 +5,4 @@
 ##### This is a header5
 ###### This is a header6
 These  are different header sizes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
