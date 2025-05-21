@@ -12,3 +12,7 @@ print("this is an example")
 ```git init
 git config user.name
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Itroduce myself to the world
+- [ ] show my intro
